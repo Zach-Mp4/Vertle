@@ -1,0 +1,81 @@
+.logo
+{
+    font-family: Nightcore demo;
+    text-align: center; 
+    font-size: 600%;
+    color: white;
+    
+}
+
+.guess
+{
+    font-family: futura;
+    color: #dbdbdb;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    
+}
+
+#text-input
+{
+    font-family: futura;
+    color: black;
+    text-align: center;
+    align-self: center;
+    position: relative;
+    top: 50px;
+    right: -34%;
+    margin: auto;
+    padding: 10px;
+    width: 30%;
+}
+
+h2.unlimited
+{
+    font-family: futura;
+    color: #dbdbdb;
+    text-align: center;
+    position: relative;
+    top: -25px;
+    font-size: 50px;
+}
+
+#table-text {
+    color: #dbdbdb;
+    font-size: small;
+    padding: 0px 25px 5px 25px;
+}
+
+.result-table
+{
+    font-size: small;
+    font-family: futura;
+    color: #dbdbdb;
+    text-align: center;
+    align-self: center;
+    position: relative;
+    top: 100px;
+    margin: auto;
+}
+
+html
+{
+    height: 100%;
+    background-image: linear-gradient(to bottom right, purple, black);
+}
+
+.song-cell 
+{
+    opacity: 100;
+    min-width: 15vw;
+    padding-inline: 10px;
+}
+
+td.grey
+{
+    opacity: 1;
+}
+
+
+
